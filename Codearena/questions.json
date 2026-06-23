@@ -1,0 +1,27 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Python is interpreted?",
+      "options": ["True", "False"],
+      "answer": "True",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Which keyword creates a function in Python?",
+      "options": ["def", "function", "func", "create"],
+      "answer": "def",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "A Python list is immutable?",
+      "options": ["True", "False"],
+      "answer": "False",
+      "difficulty": "medium"
+    }
+
+    
+  ]
+} 
