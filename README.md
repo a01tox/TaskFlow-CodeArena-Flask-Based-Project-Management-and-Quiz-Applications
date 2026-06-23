@@ -1,1 +1,193 @@
+# 🚀 TaskFlow & CodeArena
 
+A Final Year Project (PFA) composed of two web applications developed using Python Flask, HTML, CSS, and JavaScript.
+
+## 📌 Project Overview
+
+This project consists of two independent applications:
+
+### 📝 TaskFlow
+A collaborative task management system that allows users to:
+- Create tasks
+- Edit tasks
+- Delete tasks
+- Assign tasks to team members
+- Track project progress
+
+### 🎯 CodeArena
+An interactive Python and Algorithms quiz platform that allows users to:
+- Answer multiple-choice questions
+- Practice Python and Algorithm concepts
+- Receive automatic score calculation
+- View quiz results instantly
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Flask
+- HTML5
+- CSS3
+- JavaScript
+- JSON
+- GitHub
+- Figma
+
+---
+
+# 📂 Project Structure
+
+```text
+pfa/
+│
+├── TaskFlow/
+│   ├── app.py
+│   ├── task.json
+│   ├── users.json
+│   ├── requirements.txt
+│   ├── templates/
+│   └── static/
+│       ├── css/
+│       └── js/
+│
+├── Codearena/
+│   ├── app.py
+│   ├── questions.json
+│   ├── requirements.txt
+│   ├── templates/
+│   └── static/
+│       ├── codearena/
+│       └── js/
+│
+└── README.md
+```
+
+---
+
+# ⚙️ Installation
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/taskflow-codearena.git
+cd taskflow-codearena
+```
+
+---
+
+# ▶️ Running TaskFlow
+
+Navigate to the TaskFlow directory:
+
+```bash
+cd TaskFlow
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+python app.py
+```
+
+TaskFlow will be available at:
+
+```text
+http://127.0.0.1:5000
+```
+
+---
+
+# ▶️ Running CodeArena
+
+Open a second terminal.
+
+Navigate to the CodeArena directory:
+
+```bash
+cd Codearena
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+python app.py
+```
+
+CodeArena will be available at:
+
+```text
+http://127.0.0.1:5001
+```
+
+---
+
+# 📖 Features
+
+## TaskFlow
+
+- Task Creation
+- Task Editing
+- Task Deletion
+- Task Assignment
+- Status Tracking
+- Dashboard Interface
+
+## CodeArena
+
+- Multiple Choice Questions
+- Python Quiz
+- Algorithms Quiz
+- Automatic Scoring
+- Results Display
+
+---
+
+# 👥 Team Roles
+
+### UI/UX Designer
+- Created wireframes and prototypes
+- Designed the visual identity
+
+### Front-End Developer
+- Developed HTML, CSS, and JavaScript interfaces
+- Implemented responsive design
+
+### Back-End Developer
+- Developed Flask routes and application logic
+- Managed JSON data processing
+
+### QA & Documentation
+- Tested application functionality
+- Managed GitHub repository
+- Prepared project documentation
+
+---
+
+# 🎓 Educational Objectives
+
+This project was developed to:
+
+- Apply software development concepts
+- Practice teamwork and collaboration
+- Learn Flask web development
+- Build complete web applications
+- Improve problem-solving skills
+
+---
+
+# 📄 License
+
+This project was developed for educational purposes as part of a Final Year Project (PFA).
